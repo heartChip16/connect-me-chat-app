@@ -8,6 +8,9 @@ After installing the dependencies,
 Start the server by running "npm start" inside server folder.
 Start the client-side applicatin by running "npm start" inside client-side folder.
 
+To test the chat app, open two client apps, with each from a different browser, e.g. one is Chrome and the other is Microsoft Edge. 
+Compare and observe that the two app's messages are sent and received in real-time. 
+
 ================================================================================
 EXISTING USERS in DATABASE:
 
