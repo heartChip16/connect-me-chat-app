@@ -30,7 +30,7 @@ const server = app.listen(process.env.PORT, () =>
 );
 const io = socket(server, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: "https://connect-me-chat-app-client-ibet-9wt5t.ondigitalocean.app:8080",
     credentials: true,
   },
 });
